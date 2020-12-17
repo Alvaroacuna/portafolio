@@ -1,0 +1,13 @@
+.container {
+    background-color: #B99630;
+
+}
+.jumbotron {
+    background-color: #8DBEC6;
+    background-image: url(pngtree-golden-sparkling-frame-in-square-shape-on-black-background-image_305533.jpg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.navbar {
+    background-color: white;
+}
